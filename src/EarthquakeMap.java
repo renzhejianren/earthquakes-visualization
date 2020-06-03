@@ -1,4 +1,9 @@
 
-public class EarthquakeMap {
+import java.util.ArrayList;
 
+public class EarthquakeMap {
+	
+	
+
+	
 }
